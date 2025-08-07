@@ -16,9 +16,9 @@ P. A. COLLEGE OF ENGINNERING — 2025
 
 ---
 
-Feel free to reach out if you want to connect or collaborate on exciting AI/ML and Data Science projects!
+## Feel free to reach out if you want to connect or collaborate on exciting AI/ML and Data Science projects!
 
-📫 Contact Me: <br/>
+## 📫 Contact Me: <br/>
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyoli-mohammed-husain-ziyan-584475248)  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ziyaankader@gmail.com)
   
