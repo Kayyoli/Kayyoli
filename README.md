@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayyoli Mohammed Husain Ziyan</h1>
 
 <h3 align="center">Artificial Intelligence and Machine Learning Engineer</h3>
-B.E. AI and Machine Learning | P.A. College of Engineering, Mangaluru (2021 - 2025)
+<h3 align="center">B.E. AI and Machine Learning | P.A. College of Engineering, Mangaluru (2021 - 2025)</h3>
 
 ---
 
