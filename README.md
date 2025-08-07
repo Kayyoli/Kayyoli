@@ -5,12 +5,12 @@
 
 ---
 
-<h3 align="center">📫 Contact Me</h3>
-<p align="center">
-  📞 +971 54 377 5007  <br/>
+📫 Contact Me
+
+📞 +971 54 377 5007 
   ✉️ <a href="mailto:ziyaankader@gmail.com">ziyaankader@gmail.com</a>  <br/>
-  🔗 <a href="https://www.linkedin.com/in/kayyoli-mohammed-husain-ziyan-584475248" target="_blank">LinkedIn Profile</a>
-</p>
+🔗 <a href="https://www.linkedin.com/in/kayyoli-mohammed-husain-ziyan-584475248" target="_blank">LinkedIn Profile</a>
+
 
 ---
 
@@ -31,4 +31,4 @@
 
 ---
 
-<p align="center">Feel free to reach out if you want to connect or collaborate on exciting AI/ML projects!</p>
+Feel free to reach out if you want to connect or collaborate on exciting AI/ML and Data Science projects!
