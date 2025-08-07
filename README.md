@@ -5,10 +5,8 @@
 
 ---
 
-📫 Contact Me
-
-📞 +971 54 377 5007 
-  ✉️ <a href="mailto:ziyaankader@gmail.com">ziyaankader@gmail.com</a>  <br/>
+📫 Contact Me:
+✉️ <a href="mailto:ziyaankader@gmail.com">ziyaankader@gmail.com</a>  <br/>
 🔗 <a href="https://www.linkedin.com/in/kayyoli-mohammed-husain-ziyan-584475248" target="_blank">LinkedIn Profile</a>
 
 
