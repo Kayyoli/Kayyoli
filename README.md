@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kayyoli Mohammed Husain Ziyan</h1>
 
 <h3 align="center">Artificial Intelligence and Machine Learning Engineer</h3>
-<h3 align="center">B.E. AI and Machine Learning | P.A. College of Engineering, Mangaluru (2021 - 2025)</h3>
 
 ---
 
 📫 Contact Me: <br/>
-<p align="center">
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayyoli-mohammed-husain-ziyan-584475248) 
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github-username) 
+
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ziyaankader@gmail.com)
   
-</p>
 
 ---
 
@@ -22,3 +19,12 @@
 ---
 
 Feel free to reach out if you want to connect or collaborate on exciting AI/ML and Data Science projects!
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.) in Artificial Intelligence and Machine Learning Engineering**  
+P. A. COLLEGE OF ENGINNERING — 2025
+
+---
